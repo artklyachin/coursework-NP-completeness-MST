@@ -1,4 +1,4 @@
-# coursework-NP-completeness-MST
+# coursework-NP-completeness-minimum-spanning-tree
 Analysis of the minimum spanning tree problem
 
 ### Аннотация
