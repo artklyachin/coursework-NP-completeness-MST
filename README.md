@@ -1,5 +1,5 @@
 # coursework-NP-completeness-minimum-spanning-tree
-Analysis of the minimum spanning tree problem
+Analysis of the minimum spanning tree problem (Анализ задачи о минимальном остовном дереве)
 
 ### Аннотация
 
